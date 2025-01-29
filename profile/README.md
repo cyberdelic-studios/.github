@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-We're a small studio, that creates games using Roblox platform.
-There probably won't be any of public repositories.
-But you can support us by playing our game, or joining our community!
+We're a small studio, that creates games using Roblox platform.</br>
+There probably won't be any of public repositories.</br>
+But you can support us by playing our game, or joining our community!</br>
 
 <!--
 
